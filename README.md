@@ -1,9 +1,6 @@
 <div align="center">
-<h3 align="center">My Mac OS - Portfolio</h3>
-<div align="center">
   <h3 align="center">My Mac OS - Portfolio</h3>
   <img src="src/assets/preview.png" alt="Project Banner" />
-</div>
 </div>
 
 ## 📋 <a name="table">Table of Contents</a>
